@@ -1,0 +1,17 @@
+{
+    "name": "Devices Manager for Linux",
+    "url": "https://github.com/xusk1234/Devices-Manager-for-Linux",
+    "intro": "这是一款Linux上的设备管理器",
+    "restores": "设备管理器",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xusk1234",
+            "url": "https://github.com/xusk1234"
+        }
+    ],
+    "lang_primary": "zh-CN",
+    "lang_supported": ["zh-CN"],
+    "intent": "practical",
+    "video": "https://www.bilibili.com/video/BV1k2b16zEGe/"
+}
