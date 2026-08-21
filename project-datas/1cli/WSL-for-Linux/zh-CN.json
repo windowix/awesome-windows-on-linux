@@ -1,0 +1,17 @@
+{
+    "name": "WSL-for-Linux",
+    "url": "https://github.com/xusk1234/WSL-for-Linux",
+    "intro": "让Linux用户也能体验WSL的美味",
+    "restores": "WSL (Windows Subsystem for Linux)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xusk1234",
+            "url": "https://github.com/xusk1234"
+        }
+    ],
+    "lang_primary": "zh-CN",
+    "lang_supported": ["zh-CN", "en-US"],
+    "intent": "prank",
+    "video": "https://www.bilibili.com/video/BV1UN8q6bE82/"
+}

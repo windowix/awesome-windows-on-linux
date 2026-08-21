@@ -61,6 +61,18 @@
 - 支持语言：zh-CN / en-US
 - 介绍视频：（待补充）
 
+### [WSL-for-Linux](https://github.com/xusk1234/WSL-for-Linux) [整活]
+
+介绍：让Linux用户也能体验WSL的美味
+
+还原的部分：WSL (Windows Subsystem for Linux)
+
+- 许可证：MIT
+- 作者：[xusk1234](https://github.com/xusk1234)
+- 主要语言：zh-CN
+- 支持语言：zh-CN / en-US
+- 介绍视频：https://www.bilibili.com/video/BV1UN8q6bE82/
+
 ### [Winget-for-Linux](https://github.com/jihan-hanhan/Winget-for-Linux) [整活]
 
 介绍：使用shell脚本将Winget搬运到Linux上
@@ -561,4 +573,4 @@ git push
 [MIT](LICENSE) © 2026 windowix
 
 
-*生成于: 2026-08-21 00:41 UTC*
+*生成于: 2026-08-21 11:12 UTC*

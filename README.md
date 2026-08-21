@@ -61,6 +61,18 @@ Restores: The Windows PowerShell command-line experience: an object pipeline, 11
 - Supported languages: zh-CN / en-US
 - Intro video: (pending)
 
+### [WSL-for-Linux](https://github.com/xusk1234/WSL-for-Linux) [Prank]
+
+Intro: A WSL-like experience for Linux users
+
+Restores: Windows Subsystem for Linux (WSL)
+
+- License: MIT
+- Authors: [xusk1234](https://github.com/xusk1234)
+- Primary language: zh-CN
+- Supported languages: zh-CN / en-US
+- Intro video: https://www.bilibili.com/video/BV1UN8q6bE82/
+
 ### [Winget-for-Linux](https://github.com/jihan-hanhan/Winget-for-Linux) [Prank]
 
 Intro: A shell script wrapper that brings the Winget CLI experience to Linux.
@@ -561,4 +573,4 @@ Create the Pull Request; it merges once all Actions pass.
 [MIT](LICENSE) © 2026 windowix
 
 
-*Generated at: 2026-08-21 00:41 UTC*
+*Generated at: 2026-08-21 11:10 UTC*
