@@ -1,0 +1,17 @@
+{
+    "name": "Linux-Autoplay",
+    "url": "https://github.com/xusk1234/Linux-Autoplay",
+    "intro": "让Linux用户也能体验修复U盘通知的美味",
+    "restores": "自动播放功能",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xusk1234",
+            "url": "https://github.com/xusk1234"
+        }
+    ],
+    "lang_primary": "zh-CN",
+    "lang_supported": ["zh-CN", "en-US"],
+    "intent": "prank",
+    "video": "https://www.bilibili.com/video/BV12c8y6LEXv/"
+}

@@ -49,6 +49,18 @@ Restores: Curating and organizing projects that recreate Windows.
 
 > Command-line tools that restore Windows terminal commands on Unix.
 
+### [Linux-Autoplay](https://github.com/xusk1234/Linux-Autoplay) [Prank]
+
+Intro: A USB drive notification fix experience for Linux users
+
+Restores: AutoPlay (USB notification repair)
+
+- License: MIT
+- Authors: [xusk1234](https://github.com/xusk1234)
+- Primary language: zh-CN
+- Supported languages: zh-CN / en-US
+- Intro video: https://www.bilibili.com/video/BV12c8y6LEXv/
+
 ### [PowerShell-For-Linux](https://github.com/SweetenedSuzuka/PowerShell-For-Linux) [Practical]
 
 Intro: A PowerShell-style shell interpreter for Linux, implemented in pure Go with zero third-party dependencies, supporting both the 5.X and 7.X command sets.
@@ -60,6 +72,18 @@ Restores: The Windows PowerShell command-line experience: an object pipeline, 11
 - Primary language: zh-CN
 - Supported languages: zh-CN / en-US
 - Intro video: (pending)
+
+### [WSL-for-Linux](https://github.com/xusk1234/WSL-for-Linux) [Prank]
+
+Intro: A WSL-like experience for Linux users
+
+Restores: Windows Subsystem for Linux (WSL)
+
+- License: MIT
+- Authors: [xusk1234](https://github.com/xusk1234)
+- Primary language: zh-CN
+- Supported languages: zh-CN / en-US
+- Intro video: https://www.bilibili.com/video/BV1UN8q6bE82/
 
 ### [Winget-for-Linux](https://github.com/jihan-hanhan/Winget-for-Linux) [Prank]
 
@@ -382,18 +406,6 @@ Restores: Windows Task Scheduler, Most of the UI and behavior
 
 > Projects that hook into system services: PAM modules, popups, global hotkeys.
 
-### [Linux-Activator](https://github.com/jihan-hanhan/Linux-Activator)
-
-Intro: Restored the 'Activate Windows' window (without watermark; installing activate-linux is recommended), and opened up the configuration file and interface to add more restrictions to 'unactivated Linux'.
-
-Restores: Restores the 'Activate Windows' window (without watermark)
-
-- License: MIT
-- Authors: [jihan_hanhan](https://github.com/jihan-hanhan)
-- Primary language: zh-CN
-- Supported languages: zh-CN / en-US
-- Intro video: https://www.bilibili.com/video/BV1cj8c6jE7f
-
 ### [adpop](https://github.com/MEKCCK/adpop) [Prank]
 
 Intro: A general-purpose ad-popup service rendered fully from scratch, callable by other software.
@@ -573,4 +585,4 @@ Create the Pull Request; it merges once all Actions pass.
 [MIT](LICENSE) © 2026 windowix
 
 
-*Generated at: 2026-08-22 09:24 UTC*
+*Generated at: 2026-08-22 03:59 UTC*
