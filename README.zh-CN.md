@@ -49,6 +49,18 @@
 
 > 在 Unix 上还原 Windows 终端命令的命令行工具。
 
+### [Linux-Autoplay](https://github.com/xusk1234/Linux-Autoplay) [整活]
+
+介绍：让Linux用户也能体验修复U盘通知的美味
+
+还原的部分：自动播放功能
+
+- 许可证：MIT
+- 作者：[xusk1234](https://github.com/xusk1234)
+- 主要语言：zh-CN
+- 支持语言：zh-CN / en-US
+- 介绍视频：https://www.bilibili.com/video/BV12c8y6LEXv/
+
 ### [PowerShell-For-Linux](https://github.com/SweetenedSuzuka/PowerShell-For-Linux) [实用]
 
 介绍：在 Linux 上运行的 PowerShell 风格命令解释器，纯 Go 实现、零第三方依赖，支持 5.X 与 7.X 两套命令格式。
@@ -573,4 +585,4 @@ git push
 [MIT](LICENSE) © 2026 windowix
 
 
-*生成于: 2026-08-21 11:12 UTC*
+*生成于: 2026-08-22 04:00 UTC*

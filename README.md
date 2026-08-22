@@ -49,6 +49,18 @@ Restores: Curating and organizing projects that recreate Windows.
 
 > Command-line tools that restore Windows terminal commands on Unix.
 
+### [Linux-Autoplay](https://github.com/xusk1234/Linux-Autoplay) [Prank]
+
+Intro: A USB drive notification fix experience for Linux users
+
+Restores: AutoPlay (USB notification repair)
+
+- License: MIT
+- Authors: [xusk1234](https://github.com/xusk1234)
+- Primary language: zh-CN
+- Supported languages: zh-CN / en-US
+- Intro video: https://www.bilibili.com/video/BV12c8y6LEXv/
+
 ### [PowerShell-For-Linux](https://github.com/SweetenedSuzuka/PowerShell-For-Linux) [Practical]
 
 Intro: A PowerShell-style shell interpreter for Linux, implemented in pure Go with zero third-party dependencies, supporting both the 5.X and 7.X command sets.
@@ -573,4 +585,4 @@ Create the Pull Request; it merges once all Actions pass.
 [MIT](LICENSE) © 2026 windowix
 
 
-*Generated at: 2026-08-21 11:10 UTC*
+*Generated at: 2026-08-22 03:59 UTC*

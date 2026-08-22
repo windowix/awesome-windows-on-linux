@@ -1,0 +1,17 @@
+{
+    "name": "Linux-Autoplay",
+    "url": "https://github.com/xusk1234/Linux-Autoplay",
+    "intro": "A USB drive notification fix experience for Linux users",
+    "restores": "AutoPlay (USB notification repair)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xusk1234",
+            "url": "https://github.com/xusk1234"
+        }
+    ],
+    "lang_primary": "zh-CN",
+    "lang_supported": ["zh-CN", "en-US"],
+    "intent": "prank",
+    "video": "https://www.bilibili.com/video/BV12c8y6LEXv/"
+}
