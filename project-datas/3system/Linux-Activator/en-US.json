@@ -1,0 +1,17 @@
+{
+  "name": "Linux-Activator",
+  "intro": "Restored the 'Activate Windows' window (without watermark; installing activate-linux is recommended), and opened up the configuration file and interface to add more restrictions to 'unactivated Linux'.",
+  "restores": "Restores the 'Activate Windows' window (without watermark)",
+  "license": "MIT",
+  "video": "https://www.bilibili.com/video/BV1cj8c6jE7f",
+  "url": "https://github.com/jihan-hanhan/Linux-Activator",
+  "authors": [
+    {"name":"jihan_hanhan","url":"https://github.com/jihan-hanhan"}
+  ],
+  "lang_primary": "zh-CN",
+  "lang_supported": [
+    "zh-CN",
+    "en-US"
+  ],
+  "intent": "mixed"
+}

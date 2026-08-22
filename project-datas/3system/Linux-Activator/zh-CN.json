@@ -1,0 +1,17 @@
+{
+  "name": "Linux-Activator",
+  "intro": "还原了激活Windows窗口(不包含水印,建议安装activate-linux),开放了配置文件与接口,以为'未激活的Linux'添加更多限制",
+  "restores": "激活Windows窗口(不包含水印)",
+  "license": "MIT",
+  "video": "https://www.bilibili.com/video/BV1cj8c6jE7f",
+  "url": "https://github.com/jihan-hanhan/Linux-Activator",
+  "authors": [
+    {"name":"jihan_hanhan","url":"https://github.com/jihan-hanhan"}
+  ],
+  "lang_primary": "zh-CN",
+  "lang_supported": [
+    "zh-CN",
+    "en-US"
+  ],
+  "intent": "mixed"
+}

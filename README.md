@@ -382,6 +382,18 @@ Restores: Windows Task Scheduler, Most of the UI and behavior
 
 > Projects that hook into system services: PAM modules, popups, global hotkeys.
 
+### [Linux-Activator](https://github.com/jihan-hanhan/Linux-Activator)
+
+Intro: Restored the 'Activate Windows' window (without watermark; installing activate-linux is recommended), and opened up the configuration file and interface to add more restrictions to 'unactivated Linux'.
+
+Restores: Restores the 'Activate Windows' window (without watermark)
+
+- License: MIT
+- Authors: [jihan_hanhan](https://github.com/jihan-hanhan)
+- Primary language: zh-CN
+- Supported languages: zh-CN / en-US
+- Intro video: https://www.bilibili.com/video/BV1cj8c6jE7f
+
 ### [adpop](https://github.com/MEKCCK/adpop) [Prank]
 
 Intro: A general-purpose ad-popup service rendered fully from scratch, callable by other software.
@@ -561,4 +573,4 @@ Create the Pull Request; it merges once all Actions pass.
 [MIT](LICENSE) © 2026 windowix
 
 
-*Generated at: 2026-08-22 00:38 UTC*
+*Generated at: 2026-08-22 09:24 UTC*
