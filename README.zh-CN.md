@@ -89,7 +89,7 @@
 
 介绍：使用shell脚本将Winget搬运到Linux上
 
-还原的部分：App Installer(https://apps.microsoft.com/detail/9nblggh4nns1)中的Winget
+还原的部分：App Installer 中的Winget <https://apps.microsoft.com/detail/9nblggh4nns1>
 
 - 许可证：MIT
 - 作者：[jihan-hanhan](https://github.com/jihan-hanhan/)
@@ -406,6 +406,18 @@
 
 > 嵌入系统服务层的项目：PAM 模块、弹窗、全局热键。
 
+### [Linux-Activator](https://github.com/jihan-hanhan/Linux-Activator)
+
+介绍：还原了激活Windows窗口(不包含水印,建议安装activate-linux),开放了配置文件与接口,以为'未激活的Linux'添加更多限制
+
+还原的部分：激活Windows窗口(不包含水印)
+
+- 许可证：MIT
+- 作者：[jihan_hanhan](https://github.com/jihan-hanhan)
+- 主要语言：zh-CN
+- 支持语言：zh-CN / en-US
+- 介绍视频：https://www.bilibili.com/video/BV1cj8c6jE7f
+
 ### [adpop](https://github.com/MEKCCK/adpop) [整活]
 
 介绍：完全自绘渲染、供其他软件调用的通用广告弹窗服务。
@@ -585,4 +597,4 @@ git push
 [MIT](LICENSE) © 2026 windowix
 
 
-*生成于: 2026-08-22 04:00 UTC*
+*生成于: 2026-08-22 14:36 UTC*
