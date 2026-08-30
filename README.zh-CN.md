@@ -222,6 +222,18 @@
 - 支持语言：zh-CN
 - 介绍视频：https://www.bilibili.com/video/BV1hrgs6mETH/
 
+### [Ribbon-File-Manager](https://github.com/ysnx64523/Ribbon-File-Manager/)
+
+介绍：在Linux中使用gtk复刻了从Windows8一直延续到Windows10的Ribbon资源管理器
+
+还原的部分：Windows8.x/10 Ribbon File Manager
+
+- 许可证：Apache License 2.0
+- 作者：[ysnx64523](https://github.com/ysnx64523)
+- 主要语言：zh-CN
+- 支持语言：en-US / zh-CN
+- 介绍视频：https://www.bilibili.com/video/BV1hV8e64ENG
+
 ### [UMessageBox](https://github.com/0x8000S/UMessageBox) [实用]
 
 介绍：我修复了Linux上没有UWP弹窗的BUG
@@ -597,4 +609,4 @@ git push
 [MIT](LICENSE) © 2026 windowix
 
 
-*生成于: 2026-08-30 02:22 UTC*
+*生成于: 2026-08-30 05:06 UTC*
