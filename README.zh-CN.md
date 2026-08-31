@@ -230,7 +230,7 @@
 
 - 许可证：Apache License 2.0
 - 作者：[ysnx64523](https://github.com/ysnx64523)
-- 主要语言：zh-CN
+- 主要语言：en-US
 - 支持语言：en-US / zh-CN
 - 介绍视频：https://www.bilibili.com/video/BV1hV8e64ENG
 
@@ -609,4 +609,4 @@ git push
 [MIT](LICENSE) © 2026 windowix
 
 
-*生成于: 2026-08-30 05:06 UTC*
+*生成于: 2026-08-31 19:57 UTC*
