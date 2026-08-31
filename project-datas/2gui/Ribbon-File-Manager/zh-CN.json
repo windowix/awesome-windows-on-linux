@@ -1,0 +1,20 @@
+{
+  "name": "Ribbon-File-Manager",
+  "intro": "在Linux中使用gtk复刻了从Windows8一直延续到Windows10的Ribbon资源管理器",
+  "restores": "Windows8.x/10 Ribbon File Manager",
+  "license": "Apache License 2.0",
+  "video": "https://www.bilibili.com/video/BV1hV8e64ENG",
+  "url": "https://github.com/ysnx64523/Ribbon-File-Manager/",
+  "authors": [
+    {
+      "name": "ysnx64523",
+      "url": "https://github.com/ysnx64523"
+    }
+  ],
+  "lang_primary": "en-US",
+  "lang_supported": [
+    "en-US",
+    "zh-CN"
+  ],
+  "intent": "mixed"
+}

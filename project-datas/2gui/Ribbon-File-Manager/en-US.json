@@ -1,0 +1,20 @@
+{
+  "name": "Ribbon-File-Manager",
+  "intro": "use GTK to replicate the Ribbon File Manager from Windows 8 to Windows 10 on Linux",
+  "restores": "Windows8.x/10 Ribbon File Manager",
+  "license": "Apache License 2.0",
+  "video": "https://www.bilibili.com/video/BV1hV8e64ENG",
+  "url": "https://github.com/ysnx64523/Ribbon-File-Manager/",
+  "authors": [
+    {
+      "name": "ysnx64523",
+      "url": "https://github.com/ysnx64523"
+    }
+  ],
+  "lang_primary": "en-US",
+  "lang_supported": [
+    "en-US",
+    "zh-CN"
+  ],
+  "intent": "mixed"
+}

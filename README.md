@@ -222,6 +222,18 @@ Restores: Windows Defender
 - Supported languages: zh-CN
 - Intro video: https://www.bilibili.com/video/BV1hrgs6mETH/
 
+### [Ribbon-File-Manager](https://github.com/ysnx64523/Ribbon-File-Manager/)
+
+Intro: use GTK to replicate the Ribbon File Manager from Windows 8 to Windows 10 on Linux
+
+Restores: Windows8.x/10 Ribbon File Manager
+
+- License: Apache License 2.0
+- Authors: [ysnx64523](https://github.com/ysnx64523)
+- Primary language: en-US
+- Supported languages: en-US / zh-CN
+- Intro video: https://www.bilibili.com/video/BV1hV8e64ENG
+
 ### [UMessageBox](https://github.com/0x8000S/UMessageBox) [Practical]
 
 Intro: I fixed the bug where UWP pop-ups didn't show up on Linux
@@ -597,4 +609,4 @@ Create the Pull Request; it merges once all Actions pass.
 [MIT](LICENSE) © 2026 windowix
 
 
-*Generated at: 2026-08-31 02:17 UTC*
+*Generated at: 2026-08-30 05:05 UTC*
