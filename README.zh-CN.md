@@ -63,15 +63,15 @@
 
 ### [PowerShell-For-Linux](https://github.com/SweetenedSuzuka/PowerShell-For-Linux) [实用]
 
-介绍：在 Linux 上运行的 PowerShell 风格命令解释器，纯 Go 实现、零第三方依赖，支持 5.X 与 7.X 两套命令格式。
+介绍：在 Linux 上运行的 PowerShell 风格命令解释器，纯 Go 实现、零第三方依赖，支持 5.X 与 7.X 两套命令格式与中英双语界面。
 
-还原的部分：Windows PowerShell 的命令行体验：对象管道、114 个内置命令、.ps1 脚本，可用 PowerShell 风格命令直接操作 Linux 系统。
+还原的部分：Windows PowerShell 的命令行体验：对象管道、128 个内置命令与 77 个别名、.ps1 脚本，可用 PowerShell 风格命令直接操作 Linux 系统。
 
 - 许可证：MIT
 - 作者：[SweetenedSuzuka](https://github.com/SweetenedSuzuka)
 - 主要语言：zh-CN
 - 支持语言：zh-CN / en-US
-- 介绍视频：（待补充）
+- 介绍视频：https://www.bilibili.com/video/BV1cz8i67Enh/
 
 ### [WSL-for-Linux](https://github.com/xusk1234/WSL-for-Linux) [整活]
 
